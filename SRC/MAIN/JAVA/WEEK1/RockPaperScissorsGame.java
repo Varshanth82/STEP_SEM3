@@ -1,3 +1,5 @@
+package SRC.MAIN.JAVA.WEEK1;
+
 import java.util.Random;
 import java.util.Scanner;
 
